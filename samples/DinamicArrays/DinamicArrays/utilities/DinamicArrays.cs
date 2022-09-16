@@ -24,7 +24,7 @@ namespace DinamicArrays.utilities {
         public void AddFront(T newElement) {
             int size;
             T[] Copy;
-            ExpandArray(out size, out Copy);
+            this.ExpandArray(out size, out Copy);
 
             Content[0] = newElement;
 
