@@ -1,0 +1,15 @@
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\bin\Debug\net6.0\RemoveNthNodeFromTheEndOfList.exe
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\bin\Debug\net6.0\RemoveNthNodeFromTheEndOfList.deps.json
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\bin\Debug\net6.0\RemoveNthNodeFromTheEndOfList.runtimeconfig.json
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\bin\Debug\net6.0\RemoveNthNodeFromTheEndOfList.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\bin\Debug\net6.0\RemoveNthNodeFromTheEndOfList.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\obj\Debug\net6.0\RemoveNthNodeFromTheEndOfList.csproj.AssemblyReference.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\obj\Debug\net6.0\RemoveNthNodeFromTheEndOfList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\obj\Debug\net6.0\RemoveNthNodeFromTheEndOfList.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\obj\Debug\net6.0\RemoveNthNodeFromTheEndOfList.AssemblyInfo.cs
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\obj\Debug\net6.0\RemoveNthNodeFromTheEndOfList.csproj.CoreCompileInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\obj\Debug\net6.0\RemoveNthNodeFromTheEndOfList.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\obj\Debug\net6.0\refint\RemoveNthNodeFromTheEndOfList.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\obj\Debug\net6.0\RemoveNthNodeFromTheEndOfList.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\obj\Debug\net6.0\RemoveNthNodeFromTheEndOfList.genruntimeconfig.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\leetcode\RemoveNthNodeFromTheEndOfList\RemoveNthNodeFromTheEndOfList\obj\Debug\net6.0\ref\RemoveNthNodeFromTheEndOfList.dll

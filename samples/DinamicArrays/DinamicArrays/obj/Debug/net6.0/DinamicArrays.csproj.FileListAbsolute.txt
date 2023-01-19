@@ -1,0 +1,15 @@
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\bin\Debug\net6.0\DinamicArrays.exe
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\bin\Debug\net6.0\DinamicArrays.deps.json
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\bin\Debug\net6.0\DinamicArrays.runtimeconfig.json
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\bin\Debug\net6.0\DinamicArrays.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\bin\Debug\net6.0\DinamicArrays.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\obj\Debug\net6.0\DinamicArrays.csproj.AssemblyReference.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\obj\Debug\net6.0\DinamicArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\obj\Debug\net6.0\DinamicArrays.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\obj\Debug\net6.0\DinamicArrays.AssemblyInfo.cs
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\obj\Debug\net6.0\DinamicArrays.csproj.CoreCompileInputs.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\obj\Debug\net6.0\DinamicArrays.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\obj\Debug\net6.0\refint\DinamicArrays.dll
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\obj\Debug\net6.0\DinamicArrays.pdb
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\obj\Debug\net6.0\DinamicArrays.genruntimeconfig.cache
+C:\Users\hugor\Desktop\Aulas\alunos\C#\Anderson Bueno\samples\DinamicArrays\DinamicArrays\obj\Debug\net6.0\ref\DinamicArrays.dll
